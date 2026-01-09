@@ -7,9 +7,10 @@ Estudante de ciência da computação na Uninter, estou atualmente no terceiro p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-lima-221471347/)
 
 
-## Habilidades
-
-![Java]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png))
+## Habilidades 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 
