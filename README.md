@@ -1,5 +1,5 @@
 # Vinícius Azevedo Lima
-Estudante de ciência da computação na Uninter, estou atualmente no segundo período, tenho 20 anos e sonho em me tornar um programador Back-End, busco sempre aprender novas ferramentas e boas práticas de desenvolvimento.
+Estudante de ciência da computação na Uninter, estou atualmente no terceiro período, tenho 20 anos e sonho em me tornar um programador Back-End, busco sempre aprender novas ferramentas e boas práticas de desenvolvimento.
 
 ## Redes Sociais
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:viniciuslima01333@gmail.com)
